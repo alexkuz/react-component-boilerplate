@@ -50,5 +50,12 @@
   "peerDependencies": {
     "react": ">=0.13.0",
     "babel-runtime": "^6.3.19"
+  },
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "draft-js-mention-plugin": "0.0.1",
+    "draft-js-plugins-editor": "0.0.0",
+    "postcss-loader": "^0.8.2",
+    "style-loader": "^0.13.1"
   }
 }
